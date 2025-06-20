@@ -86,12 +86,12 @@ By the end of this project, I:
 
 ## 👩‍💻 Author
 
-**Nada Albayar**  
-_Data Engineer – Educational Project_
-
+**This project is originally authored by [Ansam Ali](https://github.com/ansamAY)**  
+Cloned and reused for educational purposes by **Nada Albayar**
 ---
 
 ## 📝 License
 
-This project is for **educational purposes only**.  
-Please **cite this repository** if you build upon or share any part of it.
+This project is based entirely on the work of Ansam Ali.  
+It is reused here strictly for **educational and personal learning purposes**.  
+Please **cite the original repository** if using or modifying.
