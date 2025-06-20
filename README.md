@@ -94,4 +94,3 @@ Cloned and reused for educational purposes by **Nada Albayar**
 
 This project is based entirely on the work of Ansam Ali.  
 It is reused here strictly for **educational and personal learning purposes**.  
-Please **cite the original repository** if using or modifying.
